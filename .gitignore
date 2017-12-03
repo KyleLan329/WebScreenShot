@@ -58,4 +58,7 @@ typings/
 .env
 
 screenshot/*.png
+imgScrapy/*.jpg
+imgScrapy/*.png
+imgScrapy/*.gif
 

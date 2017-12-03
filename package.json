@@ -18,5 +18,8 @@
   "homepage": "https://github.com/KyleLan329/WebScreenShot#readme",
   "dependencies": {
     "puppeteer": "^0.13.0"
+  },
+  "devDependencies": {
+    "chalk": "^2.3.0"
   }
 }
